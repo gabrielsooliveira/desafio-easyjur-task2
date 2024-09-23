@@ -1,0 +1,7 @@
+.quote {
+    border-left: 2px solid rgb(24, 131, 33);
+    color: #ccc;
+    font-style: italic;
+    padding-left: 15px;
+    margin: 10px 0;
+}
